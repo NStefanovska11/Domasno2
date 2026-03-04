@@ -1,0 +1,6 @@
+здраво=hello
+куче=dog
+мачка=cat
+книга=book
+вода=water
+љубов=love
